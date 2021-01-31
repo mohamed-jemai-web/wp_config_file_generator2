@@ -20,23 +20,23 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', '653653' );
+define( 'DB_NAME', 'sdas' );
 
 /** MySQL database username */
-define( 'DB_USER', '65765' );
+define( 'DB_USER', 'asdas' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '65456' );
+define( 'DB_PASSWORD', 'asda' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'host' );
+define( 'DB_HOST', 'localhost' );
 
 /** Database Charset to use in creating database tables. */
-define( 'DB_CHARSET', 'utf8' );
+define( 'DB_CHARSET', 'asda' );
 
 /** The Database Collate type. Don't change this if in doubt. */
-define( 'DB_COLLATE', '' );
-
+dasddasedasfdasidasndasedas(das das'dasDdasBdas_dasCdasOdasLdasLdasAdasTdasEdas'das,das das'das'das das)das;das
+das
 /**#@+
  * Authentication Unique Keys and Salts.
  *
@@ -46,7 +46,7 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'put your unique phrase here' );
+define( 'AUTH_KEY',         'a' );
 define( 'SECURE_AUTH_KEY',  'put your unique phrase here' );
 define( 'LOGGED_IN_KEY',    'put your unique phrase here' );
 define( 'NONCE_KEY',        'put your unique phrase here' );
